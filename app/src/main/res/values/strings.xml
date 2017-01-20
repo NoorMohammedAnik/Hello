@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="hello">Customized button with icon</string>
+
+</resources>
